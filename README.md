@@ -195,4 +195,4 @@ Each dot represents a country
 
 Integration with real-time data sources
 
-🔹 End of Report
+-- End of Report --
