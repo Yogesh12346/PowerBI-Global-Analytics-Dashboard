@@ -10,6 +10,10 @@ This project involves building an interactive Power BI dashboard to analyze busi
 - DAX
 - Data Modeling
 
+  ## 📸 Dashboard Preview
+![Dashboard](Screenshot 2026-01-08 144252.png)
+
+
 ##  Dashboard Features
 - Interactive visuals and filters
 - KPI tracking and performance metrics
